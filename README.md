@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nihal</h1>
-<h3 align="center">Mobil App Developer</h3>
+<h3 align="center">Merhaba. Ben Nihal. İnşaat Mühendisliği'nden mezunum. Yenilenebilir Enerji Sistemleri alanında yüksek lisans yapıyorum. Mobil App Developer (iOS) olma yolunda ilerleyen biriyim. Arduino ile ilgileniyorum.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihalkiran&label=Profile%20views&color=0e75b6&style=flat" alt="nihalkiran" /> </p>
 
